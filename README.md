@@ -1,4 +1,4 @@
-## Hi there! 👋 Welcome to my GitHub profile!
+## Hi 👋 
 
 - 🔭 I’m a PhD researcher at the University of Sheffield.  
 - 🌱 My research focuses on how morphological disparity evolves during past mass extinction events!  
