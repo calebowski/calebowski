@@ -1,9 +1,7 @@
-## Hi there 👋
+## Hi there! 👋 Welcome to my GitHub profile!
 
-<!--
-**calebowski/calebowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a PhD researcher at the University of Sheffield.  
+- 🌱 My research focuses on how morphological disparity evolves during past mass extinction events!  
+- 📫 How to reach me: cnscutt1 [at] sheffield.ac.uk  
 
-- 🔭 I’m currently a PhD researcher at the University of Sheffield
-- 🌱 I’m currently working on how morphological disparity changes across the mass extinction events that have occured in the past!
-- 📫 How to reach me: cnscutt1@sheffield.ac.uk
--->
+💡 Fun fact: I’m passionate about uncovering the hidden stories of evolution through data-driven research!  
