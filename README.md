@@ -7,4 +7,4 @@
 
 ### Where else to find me
 - [Linkedin](https://www.linkedin.com/in/caleb-scutt-91ba1523b/)
-- [BlueSky](https://bsky.app/profile/calebscutt.bsky.social)
+- [Bluesky](https://bsky.app/profile/calebscutt.bsky.social)
