@@ -1,4 +1,4 @@
-## Hi 👋 
+## About me 
 
 - 📚 I’m a PhD researcher at the University of Sheffield.  
 - 🦖 My research focuses on morphological disparity and the methods related to it.
