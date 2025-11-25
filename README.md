@@ -6,5 +6,5 @@
 - 📫 How to reach me: cnscutt1 [at] sheffield.ac.uk  
 
 ### Where else to find me
-- [Linkedin](www.linkedin.com/in/caleb-scutt-91ba1523b)
+- [Linkedin](https://www.linkedin.com/in/caleb-scutt-91ba1523b/)
 - [BlueSky](https://bsky.app/profile/calebscutt.bsky.social)
