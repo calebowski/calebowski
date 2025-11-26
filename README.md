@@ -1,7 +1,7 @@
 ## About me 
 
 - 📚 I’m a PhD researcher at the University of Sheffield.  
-- 🦖 My research focuses on morphological disparity and the methods related to it.
+- 🦖 My research focuses on morphological disparity, with a specific interest in disparity across mass extinction events.
 - 📶 My current work is looking at how we can best use ancestral state estimations in disparity analyses.
 - 📫 How to reach me: cnscutt1 [at] sheffield.ac.uk  
 
